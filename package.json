@@ -1,0 +1,28 @@
+{
+  "name": "zilliqajs",
+  "version": "1.0.0",
+  "description": "Javascript con Zilliqa",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ZilliqaJS"
+  },
+  "keywords": [
+    "Zilliqa",
+    "JacaScript"
+  ],
+  "author": "Ignacio Martin",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-cli": "^2.0.1",
+    "windows-build-tools": "^3.0.1",
+    "zilliqa.js": "github:Zilliqa/Zilliqa-JavaScript-Library#master"
+  },
+  "devDependencies": {
+    "gulp-build": "^0.5.3"
+  }
+}
