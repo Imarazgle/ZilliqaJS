@@ -19,6 +19,7 @@
   "dependencies": {
     "gulp": "^4.0.0",
     "gulp-cli": "^2.0.1",
+    "promise": "^8.0.1",
     "windows-build-tools": "^3.0.1",
     "zilliqa.js": "github:Zilliqa/Zilliqa-JavaScript-Library#master"
   },
